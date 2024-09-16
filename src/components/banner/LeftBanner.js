@@ -26,7 +26,8 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        Aspiring Cyber Security Expert, I have pursued Computer Science, i have knowledge in Networking, Ethical Hacking, Cyber Security, Web Application Security, IT support Specialist, and Penetration Testing. I am a dedicated and detail-oriented Computer science professional, possesing a passion for continuous learning, seeking a position in the Computer science, and Cyber Security field to make the most of my skills and experience.
+       I am an IT Technical Support and Security Analyst with over a year of experience and a strong foundation in Computer Science. My skills cover Networking, Ethical Hacking, Web Application Security, IT Support, and Software Installation and Troubleshooting to name a few. I’m adept with various operating systems, including Windows, macOS, and Linux. My passion for technology and commitment to continuous learning
+keep me at the forefront of the field.. I am a dedicated and detail-oriented Computer science professional, possesing a passion for continuous learning, seeking a position in the Computer science, and Cyber Security field to make the most of my skills and experience.
         Agile and team-oriented individual with excellent communication skills, problem-solving skills, as well as the ability to adapt to changing environments and work processes. I am looking to continue developing my skills and abilities, thus
 enhancing fore security hygiene and Innovation.
         </p>
